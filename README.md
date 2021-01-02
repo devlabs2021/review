@@ -1,2 +1,2 @@
 # review
-Review your code
+Review pieces of code
