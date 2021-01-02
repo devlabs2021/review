@@ -8,6 +8,8 @@ IMPORTANT! Justify why changes are needed and based on this approach is develope
 
 ### Tools
 Use a pull request to submit your code to the repository. Following the example with comments - What we review (comments) -> Programming language (typescript) -> Sequence number (1).  
+Put the description.md file in the project directory with a description of what needs to be reviewed.  
+
 Use "Blame" to comment out the code, example:  
 https://github.com/devlabs2021/review/blame/main/comments/typescript/1/code.ts
 
@@ -18,6 +20,7 @@ https://github.com/devlabs2021/review/blame/main/comments/typescript/1/code.ts
 
 ### Инструменты
 Используйте pull request для размещения своего кода в рекозиторий. По примеру с комментариями - Что ревьюим (comments) -> Язык программирования (typescript) -> Порядковый номер (1).  
+В директорию проекта положите файл description.md с описанием того что нужно поревьюить.  
 
 Используйте "Blame" для комментирования кода, пример:  
 https://github.com/devlabs2021/review/blame/main/comments/typescript/1/code.ts
